@@ -1,2 +1,2 @@
 # dextrix
-techfect management app
+techfest management app
